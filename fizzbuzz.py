@@ -1,7 +1,7 @@
 #!/home/st_yudi/programs/anaconda3/bin/python3
 
 # menerima input angka dari user
-n = int(input("Masukan input angka yang diinginkan : "))
+n = int(input("Masukan input angka : "))
 
 # loop dari 1 - n mencetak fizzbuzz
 for i in range(1,n+1):
